@@ -40,8 +40,3 @@ class BinarySearchTree {
     }
   }
 }
-
-const bst = new BinarySearchTree();
-
-bst.insert(1);
-bst.insert(5);
